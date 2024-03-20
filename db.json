@@ -1,0 +1,152 @@
+{
+  "myvideos": [
+    {
+      "id": "4",
+      "caption": "Kun Faya Kun Full Video Song Rockstar",
+      "imageUrl": "https://i.ytimg.com/vi/T94PHkuydcw/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1"
+    },
+    {
+      "id": "1",
+      "caption": "ANIMAL: Pehle Bhi Main",
+      "imageUrl": "https://i.ytimg.com/vi/iAIBF2ngbWY/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/iAIBF2ngbWY?autoplay=1"
+    },
+    {
+      "id": "2",
+      "caption": "ANIMAL: SATRANGA",
+      "imageUrl": "https://i.ytimg.com/vi/w_eEnbApH0A/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/HrnrqYxYrbk?autoplay=1"
+    },
+    {
+      "id": "3",
+      "caption": "Kuthanthram - Manjummel Boys",
+      "imageUrl": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1"
+    }
+  ],
+  "history": [
+    {
+      "caption": "ANIMAL: SATRANGA",
+      "url": "https://www.youtube.com/embed/HrnrqYxYrbk?autoplay=1",
+      "timeStamp": "13/03/2024, 12:26:50",
+      "id": 1
+    },
+    {
+      "caption": "ANIMAL: SATRANGA",
+      "url": "https://www.youtube.com/embed/HrnrqYxYrbk?autoplay=1",
+      "timeStamp": "14/03/2024, 12:12:42",
+      "id": 2
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "14/03/2024, 13:04:06",
+      "id": 3
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 10:12:05",
+      "id": 4
+    },
+    {
+      "caption": "Kun Faya Kun Full Video Song Rockstar",
+      "url": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1",
+      "timeStamp": "18/03/2024, 10:12:09",
+      "id": 5
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 10:16:17",
+      "id": 6
+    },
+    {
+      "caption": "Kun Faya Kun Full Video Song Rockstar",
+      "url": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1",
+      "timeStamp": "18/03/2024, 10:16:43",
+      "id": 7
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 10:16:45",
+      "id": 8
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 10:16:49",
+      "id": 9
+    },
+    {
+      "caption": "ANIMAL: SATRANGA",
+      "url": "https://www.youtube.com/embed/HrnrqYxYrbk?autoplay=1",
+      "timeStamp": "18/03/2024, 11:15:12",
+      "id": 10
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 11:23:47",
+      "id": 11
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 11:29:18",
+      "id": 12
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys",
+      "url": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1",
+      "timeStamp": "18/03/2024, 11:29:41",
+      "id": 13
+    },
+    {
+      "caption": "ANIMAL: Pehle Bhi Main",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY?autoplay=1",
+      "timeStamp": "18/03/2024, 11:38:53",
+      "id": 14
+    }
+  ],
+  "category": [
+    {
+      "category": "Trending Songs",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Kuthanthram - Manjummel Boys",
+          "imageUrl": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1"
+        },
+        {
+          "id": "1",
+          "caption": "ANIMAL: Pehle Bhi Main",
+          "imageUrl": "https://i.ytimg.com/vi/iAIBF2ngbWY/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/iAIBF2ngbWY?autoplay=1"
+        },
+        {
+          "id": "4",
+          "caption": "Kun Faya Kun Full Video Song Rockstar",
+          "imageUrl": "https://i.ytimg.com/vi/T94PHkuydcw/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "Malayalam Songs",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Kuthanthram - Manjummel Boys",
+          "imageUrl": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/9AizchSQURA?autoplay=1"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
